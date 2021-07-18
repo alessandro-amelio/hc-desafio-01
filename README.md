@@ -6,3 +6,6 @@ Ecommerce - Site Oficial / Landing page
 - Landing page de promoções, estilo black friday; 
 - Cadastre seu e-mail para receber promoções 
 - Dados no localstorage
+
+# Deploy
+https://alessandro-amelio-hc-desafio-01.netlify.app/
